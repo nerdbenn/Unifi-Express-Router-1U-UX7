@@ -2,9 +2,9 @@
 
 This is a 1U model addition for a 10-inch mini rack. This is what I personally use to consolidate from multiple 19-inch cabinets and racks. To find that SOHO lap between clean and organised commercial cabinets and the chaos of the residential/consumer sprawl.
 
-2 Options:
-1. Single complete unit for people with a decent-sized printer (v2.1)
-3. 3-Module units for front panel, main unit and power/cable management sections. (v3.1)
+**UX7: Build options**
+1. Single complete unit for people with a decent-sized printer (v2.1) https://github.com/nerdbenn/Unifi-Express-Router-1U-UX7/single/UX7v2.1_unifi-express-10in-rack-mount.stl
+3. 3-Module units for front panel, main unit and power/cable management sections. (v3.1) https://github.com/nerdbenn/Unifi-Express-Router-1U-UX7/modular
 
 **Key Features**
 
@@ -18,7 +18,6 @@ This is a 1U model addition for a 10-inch mini rack. This is what I personally u
 **Dimensions**
 
 UniFi Express 7: over-sized to 10-inch rack height
-UniFi Express 6: in-line to 10-inch rack [not my design]
 
 **Credits for people who deserve it/Projects I've been fransteining from**
 [@lennyrudeberg3321](http://www.youtube.com/@lennyrudeberg3321), who did most (arguably all) of the design work on Blender and tried to educate me on the way.
