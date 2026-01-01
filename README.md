@@ -2,9 +2,11 @@
 
 This is a 1U model addition for a 10-inch mini rack. This is what I personally use to consolidate from multiple 19-inch cabinets and racks. To find that SOHO lap between clean and organised commercial cabinets and the chaos of the residential/consumer sprawl.
 
-2 Options:
-1. Single complete unit for people with a decent-sized printer (v2.1)
-3. 3-Module units for front panel, main unit and power/cable management sections. (v3.1)
+<img align="center" src="https://repository-images.githubusercontent.com/1125296749/b9368080-8541-4907-b48e-3ac197d47813"></img>
+
+**UX7: Build options**
+1. Single complete unit for people with a decent-sized printer (v2.1) https://github.com/nerdbenn/Unifi-Express-Router-1U-UX7/single/UX7v2.1_unifi-express-10in-rack-mount.stl
+3. 3-Module units for front panel, main unit and power/cable management sections. (v3.1) https://github.com/nerdbenn/Unifi-Express-Router-1U-UX7/modular
 
 **Key Features**
 
@@ -18,13 +20,12 @@ This is a 1U model addition for a 10-inch mini rack. This is what I personally u
 **Dimensions**
 
 UniFi Express 7: over-sized to 10-inch rack height
-UniFi Express 6: in-line to 10-inch rack [not my design]
 
 **Credits for people who deserve it/Projects I've been fransteining from**
 [@lennyrudeberg3321](http://www.youtube.com/@lennyrudeberg3321), who did most (arguably all) of the design work on Blender and tried to educate me on the way.
 
-![Youtube playlist for 10-inch server rack projects](https://i.ytimg.com/vi/y1GCIwLm3is/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDJDbNDOnxU3XBQu2LNwHvIuJCKZA)
-[Youtube playlist](https://www.youtube.com/watch?v=5E0M4s17r-U&list=PLY38GSLrhBUO0fQYR55Bhp4VXqOk_WLX4)
+![Youtube playlist for 10-inch server rack projects](https://i.ytimg.com/vi/y1GCIwLm3is/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDJDbNDOnxU3XBQu2LNwHvIuJCKZA)</br>
+[Youtube playlist](https://www.youtube.com/watch?v=5E0M4s17r-U&list=PLY38GSLrhBUO0fQYR55Bhp4VXqOk_WLX4)</c>
 
 Server Rack: https://www.printables.com/model/1225275-modular-10-server-rack-mod10
 UX6 (this one) https://www.printables.com/model/1242103-unifi-express-gateway-10in-rack-mount-with-keyston
